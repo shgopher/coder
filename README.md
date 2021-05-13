@@ -37,4 +37,4 @@
 ### 作者的计算机知识项目
 - [GOFamily](https://github.com/shgopher/GOFamily) :go语言从入门到熟练掌握 
 - [408Family](https://github.com/shgopher/408Family) : 算法和数据结构,设计模式，
-- [coder](https://github.com/shgopher/refactor) : 关注程序员的职业发展，会分享比如如何升迁，如何面试，如何赚钱等知识。
+- [coder](https://github.com/shgopher/coder) : 关注程序员的职业发展，会分享比如如何升迁，如何面试，如何赚钱等知识。
